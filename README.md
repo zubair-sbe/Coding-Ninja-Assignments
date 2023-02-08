@@ -1,5 +1,6 @@
-# Coding-Ninja-Assignments
-Coding Ninja MERN Stack with Python Solved Assignments
+## Coding-Ninja-Assignments
+#Coding Ninja MERN Stack with Python Solved Assignments
+
 This repository contains all the assignments which I've solved during the 'Introduction to Python' course by Coding Ninjas.
 
 Topics discussed are:-
